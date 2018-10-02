@@ -2,7 +2,7 @@
  * By Jeremy Dorn - https://github.com/jdorn/json-editor/
  * Released under the MIT license
  *
- * Date: 2016-08-07
+ * Date: 2018-10-02
  */
 
 /**
